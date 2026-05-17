@@ -1,7 +1,9 @@
 # Open WebUI for Raycast
 Raycast Extension for Managing Your Local Open WebUI Instance
-<img width="848" height="573" alt="alt_1" src="https://github.com/user-attachments/assets/5feb98fd-4a9b-46bd-a07d-76137f541d20" />
-<img width="848" height="573" alt="alt_2" src="https://github.com/user-attachments/assets/6f49d556-de23-4a55-a55d-22da10fd2d97" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5feb98fd-4a9b-46bd-a07d-76137f541d20" alt="alt_1" /><br/>
+  <img src="https://github.com/user-attachments/assets/6f49d556-de23-4a55-a55d-22da10fd2d97" alt="alt_2" />
+</p>
 
 
 ## Features
